@@ -4,8 +4,6 @@
 
 I'm a discord bot and full stack developer...
 
-## Other Common Github Profile Sections
-
 🧠 I'm currently learning everything...
 
 ## 🛠 Skills
