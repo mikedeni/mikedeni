@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-🤖 I'm a discord bot and full stack developer...
-
-"The Stack: ChatGPT, Perplexity AI, and vibes." 😆
+🤖 I'm a discord bot and want to be full stack developer...
 
 🧠 I'm currently learning everything...
 
