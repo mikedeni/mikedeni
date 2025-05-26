@@ -1,23 +1,21 @@
-# Hi, I'm Mike! 👋
+# Hi, I’m Mike! 👋
 
-I'm passionate about IT, web development, and cybersecurity.
-I enjoy building websites, creating Discord bots, and exploring new technologies—especially in AI and cybersecurity.
-Always learning and experimenting with new ideas!
+I build websites, Discord bots, and love exploring AI & cybersecurity.
 
-## What I’m Currently Learning
+## 📚 Learning
 
-- **Building and deploying Discord bots**
-- **Web development** with React, Next.js, and Node.js
-- **Cybersecurity fundamentals** (web application security)
-- **Exploring AI and machine learning basics**, including object detection
+- **Web:** React, Next.js, Node.js  
+- **Discord Bots:** discord.js, MongoDB  
+- **Cybersecurity:** Web app security  
+- **AI:** Machine learning basics, object detection  
 
-## Skills
+## 🛠️ Skills
 
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Discord Bot Development:** discord.js, mongoose (MongoDB integration)
-- **Tools:** VSCode, Git, GitHub, MongoDB Compass
+- **Web:** HTML, CSS, JS, React, Next.js, Node.js  
+- **Discord Bots:** discord.js, MongoDB  
+- **Tools:** VSCode, Git, GitHub, MongoDB Compass  
 
-## Experience & Activities
+## 🎓 Activities
 
-- **Studying Computer Engineering at Suranaree University of Technology and self-learning through online resources.**
-- **Active in tech communities and Discord servers**
+- **Computer Engineering student (Suranaree University of Technology)**  
+- **Active in tech communities & Discord**
