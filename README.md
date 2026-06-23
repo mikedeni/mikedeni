@@ -25,10 +25,8 @@ Computer Engineering student at **Suranaree University of Technology** (Thailand
 ### 📫 Reach me
 
 - 💬 Active in tech and developer communities on Discord
-<!-- TODO: Fill in your real links below, then delete this comment. -->
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: `https://linkedin.com/in/your-handle`
-- 🌐 Portfolio: `https://your-portfolio.example.com`
+- 📧 Email: tawan.namsom@sut.ac.th
+- 🌐 Portfolio: https://my-port-hazel-mu.vercel.app/
 
 ---
 
