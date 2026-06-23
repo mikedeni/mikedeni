@@ -32,14 +32,9 @@ Computer Engineering student at **Suranaree University of Technology** (Thailand
 
 ---
 
-<!-- Optional: GitHub stats widget. Delete this whole block if you'd rather not show it. -->
-<details>
-<summary>📊 GitHub stats</summary>
+### 📊 GitHub stats
 
-<br>
+<!-- Live data — pulled in real time from github.com/mikedeni via the GitHub API. -->
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedeni&show_icons=true&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedeni&layout=compact&hide_border=true)
-
-</details>
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikedeni&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikedeni&layout=compact&hide_border=true&langs_count=8)
