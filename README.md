@@ -7,9 +7,9 @@ Computer Engineering student at **Suranaree University of Technology** (Thailand
 ### 🔭 What I'm working on
 
 - Building web apps with **Next.js** and **Node.js**
-- Backend services with **Java** / **Spring Boot** and **C#** / **.NET**
+- Backend services with **Java** / **Spring Boot**, **C#** / **.NET**, and **FastAPI**
 - Shipping **Discord bots** with `discord.js` + MongoDB
-- Learning AI fundamentals — machine learning basics and object detection
+- Built **YOLO** vehicle detection — exploring computer vision and object detection
 - Diving into cybersecurity, with a focus on web application security
 
 ### 🛠️ Tech I work with
@@ -22,6 +22,9 @@ Computer Engineering student at **Suranaree University of Technology** (Thailand
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
