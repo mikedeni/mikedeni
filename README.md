@@ -7,7 +7,7 @@ Computer Engineering student at **Suranaree University of Technology** (Thailand
 ### 🔭 What I'm working on
 
 - Building web apps with **Next.js** and **Node.js**
-- Backend services with **Java** and **Spring Boot**
+- Backend services with **Java** / **Spring Boot** and **C#** / **.NET**
 - Shipping **Discord bots** with `discord.js` + MongoDB
 - Learning AI fundamentals — machine learning basics and object detection
 - Diving into cybersecurity, with a focus on web application security
@@ -20,6 +20,8 @@ Computer Engineering student at **Suranaree University of Technology** (Thailand
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
